@@ -1,0 +1,23 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "webRTC demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlee0210/webRTC.git"
+  },
+  "author": "Michael Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlee0210/webRTC/issues"
+  },
+  "homepage": "https://github.com/mlee0210/webRTC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^1.2.0"
+  }
+}
